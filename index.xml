@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Native Seed Library | Lebanon Public Library</title>
+    <link>/</link>
+    <description>Recent content on Native Seed Library | Lebanon Public Library</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Collecting Your Seeds</title>
+      <link>/classes/collecting-seeds/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/classes/collecting-seeds/</guid>
+      <description>&lt;p&gt;This class will dive into watching plants for signs of seed maturity, techniques for bagging and seed removal, and proper seed storage to ensure viability of seeds in the spring.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Planning A Pollinator Garden</title>
+      <link>/classes/planning-pollinator-garden/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/classes/planning-pollinator-garden/</guid>
+      <description>&lt;p&gt;This class covers pollinator garden basics: from site preparation and selecting caterpillar host plants and butterfly nectar plants to ensuring the garden has a long season of blooms.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Seed Starting Basics</title>
+      <link>/classes/seed-starting-basics/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/classes/seed-starting-basics/</guid>
+      <description>&lt;p&gt;Learn how to cold stratify seeds to increase germination rates, as well as different methods of growing seeds come spring.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tending the Native Garden</title>
+      <link>/classes/native-perennials/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/classes/native-perennials/</guid>
+      <description>&lt;p&gt;This class covers garden maintenance, planting and pruning techniques for the native perennial garden.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
